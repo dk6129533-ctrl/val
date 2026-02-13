@@ -26,73 +26,73 @@
   },
   "media": {
     "mainBearGif": "/assets/cute-bear.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/love-you-bear.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+    "musicBearGif": "/assets/music-bear.gif",
+    "comfortBearGif": "/assets/comfort-bear.gif",
+    "kissBearGif": "/assets/kiss-bears.gif",
+    "photoBearGif": "/assets/photo-bear.gif",
+    "loveYouBearGif": "/assets/love-you-bear.gif",
+    "childGif": "/assets/child.gif",
+    "roseBearGif": "/assets/rose-bear.gif",
+    "cookBearGif": "/assets/cook-bear.gif",
+    "kissSingleBearGif": "/assets/kiss-bear.gif",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/src/assets/gift/gift1.jpg",
-    "gift2": "/src/assets/gift/gift2.jpg", 
-    "gift3": "/src/assets/gift/gift3.jpg"
+    "gift1": "/assets/gift/gift1.jpg",
+    "gift2": "/assets/gift/gift2.jpg",
+    "gift3": "/assets/gift/gift3.jpg"
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo/couple_photo_1.jpeg",
+      "image": "/assets/couple_photo/couple_photo_1.jpeg",
       "caption": "Nee yes sonna apram namma first outing… andha naal la en sandhosham level eh vera irundhuchu ❤️"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_2.jpeg", 
+      "image": "/assets/couple_photo/couple_photo_2.jpeg",
       "caption": "Namma engagement naal… namma rendu perum officially ‘forever’ decide pannina naal ❤️"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_3.JPEG",
+      "image": "/assets/couple_photo/couple_photo_3.jpeg",
       "caption": "Moonu knot… aana oru lifetime bond ❤️"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_4.JPEG",
+      "image": "/assets/couple_photo/couple_photo_4.jpeg",
       "caption": "Bottu vacha andha second la… en vazhkai un kitta officially serndhuduchu 💖"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_5.JPEG",
+      "image": "/assets/couple_photo/couple_photo_5.jpeg",
       "caption": "Namma wedding reception night… light ah vida namma love dhan bright ah irundhuchu ✨❤️"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_6.jpeg",
+      "image": "/assets/couple_photo/couple_photo_6.jpeg",
       "caption": "Andha lights keezha, unna kooda aadina andha nimisham… en world eh nee dhan 💖"
     }
   ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
+      "gif": "/assets/cook-bear.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "/assets/comfort-bear.gif",
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "/public/assets/cute-bear.gif",
+      "gif": "/assets/cute-bear.gif",
       "text": "I listen… like actually listen"
     },
     {
-      "gif": "/src/assets/kiss-bears.gif",
+      "gif": "/assets/kiss-bears.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
-      "gif": "/src/assets/photo-bear.gif",
+      "gif": "/assets/photo-bear.gif",
       "text": "Your personal photographer for all the cute moments 📸"
     },
     {
-      "gif": "/src/assets/music-bear.gif",
+      "gif": "/assets/music-bear.gif",
       "text": "Live singing performances… just for you 🎶😉"
     }
   ],
@@ -103,17 +103,17 @@
       "duration": "05:10",
       "album": "Guru",
       "artist": "",
-      "cover": "/src/assets/album-covers/guru.webp",
-      "audio": "/src/assets/songs/Aaruyire.mp3"
+      "cover": "/assets/album-covers/guru.webp",
+      "audio": "/assets/songs/aaruyire.mp3"
     },
     {
       "id": 2,
       "title": "Para Para",
-      "duration": "05:19", 
+      "duration": "05:19",
       "album": "Neerparavai",
       "artist": "",
-      "cover": "/src/assets/album-covers/neerparavai.webp",
-      "audio": "/src/assets/songs/Para-Para.mp3"
+      "cover": "/assets/album-covers/neerparavai.webp",
+      "audio": "/assets/songs/para-para.mp3"
     },
     {
       "id": 3,
@@ -121,8 +121,8 @@
       "duration": "05:57",
       "album": "Sillunu Oru Kadhal",
       "artist": "",
-      "cover": "/src/assets/album-covers/sillunu-oru-kadhal.webp",
-      "audio": "/src/assets/songs/Munbe-Vaa.mp3"
+      "cover": "/assets/album-covers/sillunu-oru-kadhal.webp",
+      "audio": "/assets/songs/munbe-vaa.mp3"
     },
     {
       "id": 4,
@@ -130,8 +130,8 @@
       "duration": "05:13",
       "album": "Mariyan",
       "artist": "",
-      "cover": "/src/assets/album-covers/maryan.webp",
-      "audio": "/src/assets/songs/Innum-Konjam-Neram.mp3"
+      "cover": "/assets/album-covers/maryan.webp",
+      "audio": "/assets/songs/innum-konjam-neram.mp3"
     },
     {
       "id": 5,
@@ -139,8 +139,8 @@
       "duration": "04:03",
       "album": "Retro",
       "artist": "",
-      "cover": "/src/assets/album-covers/retro.webp",
-      "audio": "/src/assets/songs/kadhal-Kanimaa.mp3"
+      "cover": "/assets/album-covers/retro.webp",
+      "audio": "/assets/songs/kadhal-kanimaa.mp3"
     }
   ],
   "letter": {
