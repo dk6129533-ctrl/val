@@ -1,0 +1,168 @@
+{
+  "names": {
+    "sender": "Dinesh",
+    "receiver": "Aarthi"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine forever… even after marriage? 💍❤️",
+    "subtitle": "Choose wisely. (The \"No\" button is feeling shy today 😜)",
+    "yesButtonText": "YES, Always ❤️",
+    "noButtonText": "No (But it won’t work 😆)",
+    "successMessage": "💖 YAYYYY MY WIFE SAID YES!!! 💖",
+    "successSubtitle": "You said yes once at our wedding… and now forever again ❤️😘",
+    "giftsTitle": "💝 A Little Something for My Forever 💝",
+    "giftsSubtitle": "Tap here to see the surprises I picked just for you, my love ❤️",
+    "songsTitle": "The Soundtrack of Our Love 🎵",
+    "photosTitle": "Our Beautiful Moments Together 📸",
+    "letterTitle": "To My Wife, My Forever Love ❤️",
+    "prosConsTitle": "Why You’ll Always Be My Valentine ❤️",
+    "prosConsSubtitle": "Cons: Absolutely none. Pros: Everything about you."
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpeg",
+      "caption": "Nee yes sonna apram namma first outing… andha naal la en sandhosham level eh vera irundhuchu ❤️"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpeg", 
+      "caption": "Namma engagement naal… namma rendu perum officially ‘forever’ decide pannina naal ❤️"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.JPEG",
+      "caption": "Moonu knot… aana oru lifetime bond ❤️"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.JPEG",
+      "caption": "Bottu vacha andha second la… en vazhkai un kitta officially serndhuduchu 💖"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.JPEG",
+      "caption": "Namma wedding reception night… light ah vida namma love dhan bright ah irundhuchu ✨❤️"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpeg",
+      "caption": "Andha lights keezha, unna kooda aadina andha nimisham… en world eh nee dhan 💖"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Aaruyire",
+      "duration": "05:10",
+      "album": "Guru",
+      "artist": "",
+      "cover": "/src/assets/album-covers/guru.webp",
+      "audio": "/src/assets/songs/Aaruyire.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Para Para",
+      "duration": "05:19", 
+      "album": "Neerparavai",
+      "artist": "",
+      "cover": "/src/assets/album-covers/neerparavai.webp",
+      "audio": "/src/assets/songs/Para-Para.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Munbe Vaa",
+      "duration": "05:57",
+      "album": "Sillunu Oru Kadhal",
+      "artist": "",
+      "cover": "/src/assets/album-covers/sillunu-oru-kadhal.webp",
+      "audio": "/src/assets/songs/Munbe-Vaa.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Innum Konjam Neram",
+      "duration": "05:13",
+      "album": "Mariyan",
+      "artist": "",
+      "cover": "/src/assets/album-covers/maryan.webp",
+      "audio": "/src/assets/songs/Innum-Konjam-Neram.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Kanimaa",
+      "duration": "04:03",
+      "album": "Retro",
+      "artist": "",
+      "cover": "/src/assets/album-covers/retro.webp",
+      "audio": "/src/assets/songs/kadhal-Kanimaa.mp3"
+    }
+  ],
+  "letter": {
+    "title": "En Uyir Pondatti ❤️",
+    "content": [
+      "Nee en love accept panna naal… en life full ah change aayiduchu.",
+      "Sacred knot lendhu reception varai, every moment um en forever confirm panniduchu.",
+      "Indrum, endrum… naan unna than choose pannuven.."
+    ],
+    "signature": "Forever unnudaiyavan,\nDinesh ❤️"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
